@@ -13,3 +13,7 @@ Technical Competencies:
 
 Interactive Dashboard Design & UI
 I welcome any feedback from my network regarding the visualization techniques or analytical approach used here.
+
+Screenshot Here
+Show that the demo look like
+Example:![Dashboard Preview].(https://github.com/ramanruhela12/Amazon_dashboard_projects/blob/main/Amazon%20Dashboard.png)
