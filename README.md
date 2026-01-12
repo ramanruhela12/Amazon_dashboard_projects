@@ -14,6 +14,7 @@ Technical Competencies:
 Interactive Dashboard Design & UI
 I welcome any feedback from my network regarding the visualization techniques or analytical approach used here.
 
-Screenshot Here
-Show that the demo look like
+### 6. Screenshots / Demos
+Show what the dashboard looks
+like. 1[Alt text](https://github.com/username/repo/assets/image.png).
 Example:![Dashboard Preview].(https://github.com/ramanruhela12/Amazon_dashboard_projects/blob/main/Amazon%20Dashboard.png)
