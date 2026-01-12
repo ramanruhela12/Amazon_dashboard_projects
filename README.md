@@ -15,5 +15,4 @@ Interactive Dashboard Design & UI
 I welcome any feedback from my network regarding the visualization techniques or analytical approach used here.
 
 ### 6. Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/ramanruhela12/Amazon_dashboard_projects/blob/main/Amazon%20Dashboard.png).
-Example:![Dashboard Preview](https://github.com/ramanruhela12/Amazon_dashboard_projects/blob/main/Amazon%20Dashboard.png)
+Show what the dashboard looks like. - ![Dashboard Preview](https://github.com/ramanruhela12/Amazon_dashboard_projects/blob/main/Amazon%20Dashboard.png).
